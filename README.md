@@ -12,12 +12,12 @@ Projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de ex
 
 ```
 📦 imersaoAlura
-├── 📁 src
-│   ├── 📄 index.html
-│   ├── 📄 styles.css
-│   └── 📄 script.js
+├── 📁 Aula 1 - Clone do Spotiy
+│   ├── 📁 src
+│        ├── 📄 index.html
+│        ├── 📄 styles.css
+│        └── 📄 script.js
 ├── 📄 README.md
-└── 📄 package.json
 ```
 
 ## ⚙️ Como Rodar o Projeto
