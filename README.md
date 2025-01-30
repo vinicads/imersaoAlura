@@ -12,12 +12,13 @@ Projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de ex
 
 ```
 📦 imersaoAlura
-├── 📁 Aula 1 - Clone do Spotiy
-│   ├── 📁 src
-│        ├── 📄 index.html
-│        ├── 📄 styles.css
-│        └── 📄 script.js
-├── 📄 README.md
+└───Aula 1 - Close do Spotify
+    ├───api-artists
+    └───src
+        ├───assets
+        │   ├───icons
+        │   └───playlist
+        └───styles
 ```
 
 ## ⚙️ Como Rodar o Projeto
