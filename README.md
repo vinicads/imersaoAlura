@@ -31,7 +31,7 @@ Projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de ex
    ```bash
    cd imersaoAlura
    ```
-3. Abra o index.html.
+3. Abra a pasta que voce quiser.
 
 ## ✨ Funcionalidades
 
