@@ -12,13 +12,29 @@ Projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de ex
 
 ```
 📦 imersaoAlura
-└───Aula 1 - Close do Spotify
-    ├───api-artists
+│───Aula 1 - Close do Spotify
+│   ├───api-artists
+│   └───src
+│       ├───assets
+├       ├───api-artists
+│       │   ├───icons
+│       │   └───playlist
+│       └───styles
+│
+│
+└───spotify-react
+    ├───public
     └───src
-        ├───assets
-        │   ├───icons
-        │   └───playlist
-        └───styles
+         ├───api-artists
+         ├───assets
+         ├   ├───icons
+         ├   └───playlist
+         ├───components
+         ├   ├───Header
+         ├   └───Footer
+         ├   └───Main
+         ├   └───Sidebar
+         
 ```
 
 ## ⚙️ Como Rodar o Projeto
